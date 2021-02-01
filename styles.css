@@ -2,6 +2,10 @@ h1 {
     font-weight: 300;
 }
 
+.btn {
+    align-items: right;
+}
+
 .nav-link {
     color: black;
 }
