@@ -21,5 +21,5 @@ $(document).on("click", "#menu a", loadpage);
 $(document).on("click", "#send", refresh);
 
 function refresh() {
-    alert(Sent!);
+    alert("Sent!");
 }
